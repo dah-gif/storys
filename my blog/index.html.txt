@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>مدونتي - قصتي</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>مرحبًا بك في مدونتي "قصتي"</h1>
+        <p>شارك قصصك وتجاربك مع العالم!</p>
+    </header>
+
+    <main>
+        <article>
+            <h2>عنوان المقال الأول</h2>
+            <p>هذا مثال على أول مقال في المدونة.</p>
+            <button onclick="showAlert()">اضغط هنا</button>
+        </article>
+    </main>
+
+    <script src="script.js"></script>
+</body>
+</html>
